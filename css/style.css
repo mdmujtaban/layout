@@ -1,0 +1,8 @@
+.lay{
+	width: 70%;
+	height: 350px;
+	background-color: yellow;
+	border: 3px solid blue;
+	margin: 20px 50px 30px 70px;
+	padding: 30px 70px 50px 20px;
+}
